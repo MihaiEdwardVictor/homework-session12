@@ -35,8 +35,6 @@ for(let i=0;i<matrice.length;i++){
 let average = Number(suma/matrice.length);
 alert('Media numerelor este: ' + average);
 
-
-
 Operatori de atribuire
 
 1.Scrieți un program JavaScript care adaugă 5 la o variabilă numită "x" și afișează rezultatul în consolă.
